@@ -24,7 +24,6 @@
     </ul>
     <p3>Конкуренты:</p3>   
     <ul>
-   
         <li>Boogle</li>
         <li>Minecrosoft</li>
         <li>Arazaka</li>
